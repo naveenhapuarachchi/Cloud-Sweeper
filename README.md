@@ -10,6 +10,8 @@ A modern twist on the classic Minesweeper game featuring:
 🔍 Auto-reveal for empty cells
 🔄 One-click restart functionality
 
+[Live View](https://cloud-sweeper.vercel.app/)
+
 ![Full Image](https://github.com/user-attachments/assets/c52e08aa-bc29-4200-b0a2-58b2725671d7)
 ![Game Interface](https://github.com/user-attachments/assets/11e00d8b-28ed-4341-8bfd-0419c52b2977)
 
